@@ -39,7 +39,7 @@ A Python-based credit card number validation tool that utilizes the **Luhn algor
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/credit-card-validator.git
+   git clone https://github.com/paomfarv/credit-card-validator.git
    ```
 2. Navigate to the project directory:
    ```bash
